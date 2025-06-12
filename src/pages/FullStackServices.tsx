@@ -17,7 +17,7 @@ const FullStackServices = () => {
       title: "Rapid MVP Development",
       description:
         "Transform your ideas into working products quickly with our streamlined MVP development process. Perfect for startups and businesses looking to validate concepts.",
-      image: "/public/images/rapidmvp.jpeg",
+      image: "/images/rapidmvp.jpeg",
       features: [
         "Quick prototyping and validation",
         "Modern tech stack implementation",
