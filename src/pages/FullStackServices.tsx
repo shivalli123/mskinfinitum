@@ -33,7 +33,7 @@ const FullStackServices = () => {
       title: "Website & Landing Page Development",
       description:
         "Create stunning, high-converting websites and landing pages that capture your brand essence and drive business results.",
-      image: "/public/images/webDev.jpg",
+      image: "/images/webDev.jpg",
       features: [
         "Responsive design for all devices",
         "SEO optimization and performance",
@@ -49,7 +49,7 @@ const FullStackServices = () => {
       title: "Dashboard Development",
       description:
         "Build powerful, interactive dashboards that provide real-time insights and enable data-driven decision making for your business.",
-      image: "/public/images/dashboard.png",
+      image: "/images/dashboard.png",
       features: [
         "Real-time data visualization",
         "Interactive charts and graphs",
@@ -65,7 +65,7 @@ const FullStackServices = () => {
       title: "Custom Integrations",
       description:
         "Seamlessly connect your existing systems and third-party services with custom API integrations and middleware solutions.",
-      image: "/public/images/apidev.png",
+      image: "/images/apidev.png",
       features: [
         "API development and integration",
         "Legacy system modernization",
